@@ -39,24 +39,6 @@ odin-recipes/
     └── hashbrown.html
 ```
 
-## 🚀 Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd odin-recipes
-   ```
-
-2. **Open in browser**:
-   - Simply open `index.html` in your web browser
-   - Or use a local server for development
-
-3. **Using Live Server** (recommended for development):
-   ```bash
-   # If you have Live Server extension in VS Code
-   # Right-click on index.html and select "Open with Live Server"
-   ```
-
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup and document structure
@@ -83,7 +65,7 @@ This project helped me practice and demonstrate:
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://your-username.github.io/odin-recipes) *(Update with your actual GitHub Pages URL)*
+[View Live Demo](https://mmoiz-dev.github.io/odin-recipes)
 
 ## 🤝 Contributing
 
