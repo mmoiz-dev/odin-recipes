@@ -1,10 +1,10 @@
 # Odin Recipes
 
-A simple HTML recipe website built as part of The Odin Project's Foundations course. This project demonstrates basic HTML skills including document structure, links, images, lists, and semantic elements.
+A simple HTML & CSS recipe website built as part of The Odin Project's Foundations course. This project demonstrates basic HTML & CSS skills including document structure, links, images, lists, and semantic elements and CSS styling.
 
 ## 🍳 Project Overview
 
-This website features a collection of delicious recipes with a clean, simple design. It serves as a foundation for understanding HTML fundamentals before moving on to CSS styling and JavaScript functionality.
+This website features a collection of delicious recipes with a clean, simple design. It serves as a foundation for understanding HTML & CSS fundamentals.
 
 ## 📋 Features
 
@@ -13,15 +13,15 @@ This website features a collection of delicious recipes with a clean, simple des
   - Recipe images
   - Ingredients lists
   - Step-by-step instructions
-  - Cooking times and servings
 - **Responsive Images**: WebP format images for better performance
 - **Semantic HTML**: Proper use of HTML elements for accessibility
+- **CSS Styling**: Clean and modern styling for better user experience
 
 ## 🍽️ Recipes Included
 
-1. **French Fries** - Crispy homemade fries with spicy seasoning
+1. **French Fries** - Spicy chili baked French fries with a kick
 2. **French Toast** - Classic breakfast dish with a perfect golden crust
-3. **Hash Browns** - Crispy potato patties perfect for breakfast
+3. **Hash Brown** - Crispy potato patties perfect for breakfast
 
 ## 🗂️ Project Structure
 
@@ -29,6 +29,7 @@ This website features a collection of delicious recipes with a clean, simple des
 odin-recipes/
 ├── index.html              # Main homepage
 ├── README.md               # Project documentation
+├── style.css               # Main stylesheet for the homepage
 ├── assets/                 # Image assets
 │   ├── frenchfries.webp
 │   ├── frenchtoast.webp
@@ -36,12 +37,14 @@ odin-recipes/
 └── recipes/                # Individual recipe pages
     ├── frenchfries.html
     ├── frenchtoast.html
-    └── hashbrown.html
+    ├── hashbrown.html
+    └── styles.css          # Stylesheet for recipe pages
 ```
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup and document structure
+- **CSS3**: Styling and layout for better user experience
 - **WebP Images**: Modern image format for better performance
 
 ## 📚 Learning Objectives
@@ -54,6 +57,7 @@ This project helped me practice and demonstrate:
 - [x] Organizing project files and directories
 - [x] Using semantic HTML for better structure
 - [x] Implementing proper image attributes and accessibility
+- [x] CSS styling and layout techniques
 
 ## 🎯 Skills Demonstrated
 
@@ -62,10 +66,7 @@ This project helped me practice and demonstrate:
 - **Navigation**: Creating internal links between pages
 - **Content Structure**: Using headings, paragraphs, and lists effectively
 - **Image Handling**: Including and referencing image files
-
-## 🔗 Live Demo
-
-[View Live Demo](https://mmoiz-dev.github.io/odin-recipes)
+- **CSS Styling**: Creating attractive and responsive layouts
 
 ## 🤝 Contributing
 
@@ -75,10 +76,6 @@ This is a learning project from The Odin Project curriculum. Feel free to fork a
 
 This project is part of [The Odin Project](https://www.theodinproject.com/)'s Foundations course, which provides a free, open-source curriculum for learning web development.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
-*Built with ❤️ as part of The Odin Project journey*
+*Built with ❤️ by Muhammad Moiz as part of The Odin Project journey*
