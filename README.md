@@ -1,6 +1,6 @@
 # Odin Recipes
 
-A simple HTML & CSS recipe website built as part of The Odin Project's Foundations course inspired by (Appletri). This project demonstrates basic HTML & CSS skills including document structure, links, images, lists, and semantic elements and CSS styling.
+A simple HTML & CSS recipe website built as part of The Odin Project's Foundations course inspired by [@Appletri](https://github.com/Appletri). This project demonstrates basic HTML & CSS skills including document structure, links, images, lists, and semantic elements and CSS styling.
 
 ## 🍳 Project Overview
 
