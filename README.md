@@ -1,21 +1,14 @@
 # Odin Recipes
 
-A simple HTML & CSS recipe website built as part of The Odin Project's Foundations course inspired by [@Appletri](https://github.com/Appletri). This project demonstrates basic HTML & CSS skills including document structure, links, images, lists, and semantic elements and CSS styling.
-
-## 🍳 Project Overview
-
-This website features a collection of delicious recipes with a clean, simple design. It serves as a foundation for understanding HTML & CSS fundamentals.
+A simple HTML & CSS recipe website built as part of The Odin Project's Foundations course inspired by [@Appletri](https://github.com/Appletri). This project demonstrates basic web development skills, including semantic HTML, internal navigation, and basic styling.
 
 ## 📋 Features
 
-- **Homepage**: Main index page with navigation links to all recipes
-- **Recipe Pages**: Individual pages for each recipe containing:
-  - Recipe images
-  - Ingredients lists
-  - Step-by-step instructions
-- **Responsive Images**: WebP format images for better performance
-- **Semantic HTML**: Proper use of HTML elements for accessibility
-- **CSS Styling**: Clean and modern styling for better user experience
+- **Homepage**: Lists links to individual recipes
+- **Recipe Pages**: Each recipe has its own page with an image, ingredients, and preparation steps
+- **Simple Navigation**: Easily move between the homepage and recipes
+- **Responsive Design**: Basic layout adapts to different screen sizes
+- **Images**: Each recipe includes a relevant image
 
 ## 🍽️ Recipes Included
 
@@ -27,18 +20,18 @@ This website features a collection of delicious recipes with a clean, simple des
 
 ```
 odin-recipes/
-├── index.html              # Main homepage
-├── README.md               # Project documentation
-├── style.css               # Main stylesheet for the homepage
-├── assets/                 # Image assets
+├── index.html                # Homepage listing all recipes
+├── style.css                 # Main stylesheet
+├── assets/                   # Images for recipes
 │   ├── frenchfries.webp
 │   ├── frenchtoast.webp
 │   └── hashbrown.webp
-└── recipes/                # Individual recipe pages
-    ├── frenchfries.html
-    ├── frenchtoast.html
-    ├── hashbrown.html
-    └── styles.css          # Stylesheet for recipe pages
+├── recipes/
+│   ├── frenchfries.html      # French Fries recipe
+│   ├── frenchtoast.html      # French Toast recipe
+│   ├── hashbrown.html        # Hashbrown recipe
+│   └── styles.css            # Additional styles for recipe pages
+└── README.md                 # Project documentation
 ```
 
 ## 🛠️ Technologies Used
@@ -47,34 +40,26 @@ odin-recipes/
 - **CSS3**: Styling and layout for better user experience
 - **WebP Images**: Modern image format for better performance
 
-## 📚 Learning Objectives
+## 📚 What I Learned
 
-This project helped me practice and demonstrate:
+- Structuring multi-page websites with HTML
+- Linking between pages using relative paths
+- Organizing assets and stylesheets
+- Using images in web pages
+- Writing and styling content for clarity and readability
 
-- [x] HTML document structure (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
-- [x] Working with HTML elements (`<h1>-<h6>`, `<p>`, `<ul>`, `<li>`, `<a>`, `<img>`)
-- [x] Creating relative links between pages
-- [x] Organizing project files and directories
-- [x] Using semantic HTML for better structure
-- [x] Implementing proper image attributes and accessibility
-- [x] CSS styling and layout techniques
+## 📝 Usage
 
-## 🎯 Skills Demonstrated
-
-- **File Organization**: Logical folder structure for assets and pages
-- **HTML Fundamentals**: Proper use of tags, attributes, and nesting
-- **Navigation**: Creating internal links between pages
-- **Content Structure**: Using headings, paragraphs, and lists effectively
-- **Image Handling**: Including and referencing image files
-- **CSS Styling**: Creating attractive and responsive layouts
+1. Clone this repository or download the files.
+2. Open index.html in your browser to view the homepage and navigate to recipes.
 
 ## 🤝 Contributing
 
-This is a learning project from The Odin Project curriculum. Feel free to fork and experiment with your own recipe additions!
+This project is for learning purposes, but feel free to fork and experiment!
 
-## 📖 About The Odin Project
+## 📖 Credits
 
-This project is part of [The Odin Project](https://www.theodinproject.com/)'s Foundations course, which provides a free, open-source curriculum for learning web development.
+Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ---
 
